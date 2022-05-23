@@ -1,11 +1,11 @@
 import React from 'react'
-import './testimonials.css'
+import './Testimonials.css'
 
 const testimonials = () => {
   return (
-    <div>
+    <section id='testimonials'>
       
-    </div>
+    </section>
   )
 }
 

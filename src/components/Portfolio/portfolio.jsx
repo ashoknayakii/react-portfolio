@@ -1,11 +1,11 @@
 import React from 'react'
-import './portfolio.css'
+import './Portfolio.css'
 
 const portfolio = () => {
   return (
-    <div>
+    <section id='portfolio'>
       
-    </div>
+    </section>
   )
 }
 
