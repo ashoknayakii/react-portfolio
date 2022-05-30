@@ -6,7 +6,7 @@
 
 .portfolio__items {
     background: var(--color-bg-variant);
-    padding: 3rem;
+    padding: 1.3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -31,3 +31,22 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1024px) {
+
+    .portfolio__container{
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2 rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .portfolio__container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+}
+
