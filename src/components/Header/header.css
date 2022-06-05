@@ -41,9 +41,9 @@ header {
 /* IMAGE */
 
 .me {
-  background: linear-gradient(var(--color-primary)), transparent;
+  background: linear-gradient(var(--color-primary));
   width: 22rem;
-  height: 30rem;
+  height: 35rem;
   position: absolute;
   left: calc(50% - 11rem);
   /* margin-top: 4rem; */
@@ -60,7 +60,7 @@ header {
   bottom: 5rem;
   transform: rotate(90deg);
   font-weight: 300;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 /* MEDIA QUERIES*/

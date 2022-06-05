@@ -6,12 +6,12 @@
 
 .about__me {
     width: 100%;
-    aspect-ratio: 1/1;
-    border-radius: 8rem;
+    aspect-ratio: 1 / 1;
+    border-radius: 4rem;
     /* background: linear-gradient(
         45deg,
         transparent,
-        var(--color-primary),
+        var(--color-primary-variant),
         transparent
     ); */
     display: grid;
@@ -21,13 +21,11 @@
 .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
-    /* transform: rotation(10deg);
-    transition: var(--transition); */
 }
 
-.about__me-image:hover {
+/* .about__me-image:hover {
     transform: rotate(0);
-}
+} */
 
 .about__cards {
     display: grid;

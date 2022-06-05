@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import OUI from "../../assets/images/ouiiipartyapp.png";
 import GOSEE from "../../assets/images/goseeapp.png";
-import DAILY from "../../assets/images/dailyagendaapp.png";
+import SPOT from "../../assets/images/spotscreenshot.png"
 
 
 const data = [
@@ -24,9 +24,9 @@ const data = [
   },
   {
     id: 3,
-    image: DAILY,
-    title: 'Daily Agenda',
-    alt: "workday scheduler application",
+    image: SPOT,
+    title: 'The Spot',
+    alt: "music industry social networking application",
     github: "https://github.com/ashoknayakii/daily-agenda",
     demo: "https://ashoknayakii.github.io/daily-agenda/",
   },
