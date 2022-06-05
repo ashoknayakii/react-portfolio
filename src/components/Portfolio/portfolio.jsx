@@ -3,9 +3,7 @@ import "./Portfolio.css";
 import OUI from "../../assets/images/ouiiipartyapp.png";
 import GOSEE from "../../assets/images/goseeapp.png";
 import DAILY from "../../assets/images/dailyagendaapp.png";
-// import IMG1 from '../../assets/images/portfolio1.webp'
-// import IMG2 from '../../assets/images/portfolio2.webp'
-// import IMG3 from '../../assets/images/portfolio3.webp'
+
 
 const data = [
   {
