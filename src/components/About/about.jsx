@@ -1,5 +1,5 @@
 import React from 'react'
-import './About.css'
+import './about.css'
 import Random from '../../assets/images/feetatmontauk.jpeg'
 import {BiAward} from 'react-icons/bi'
 import {FiUsers} from 'react-icons/fi'

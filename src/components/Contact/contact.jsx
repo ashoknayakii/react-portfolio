@@ -1,5 +1,5 @@
 import React from "react";
-import './Contact.css'
+import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
 import {AiOutlinePhone} from 'react-icons/ai'

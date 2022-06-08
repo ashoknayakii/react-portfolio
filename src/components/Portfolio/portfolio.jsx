@@ -1,5 +1,5 @@
 import React from "react";
-import "./Portfolio.css";
+import "./portfolio.css";
 import OUI from "../../assets/images/ouiiipartyapp.png";
 import GOSEE from "../../assets/images/goseeapp.png";
 import SPOT from "../../assets/images/spotscreenshot.png"
