@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ababb3f4.css",
+    "main.js": "/react-portfolio/static/js/main.8690eafb.js",
+    "static/media/portfolioprofile.jpeg": "/react-portfolio/static/media/portfolioprofile.8c1407c00d3d6c3d0130.jpeg",
+    "static/media/feetatmontauk.jpeg": "/react-portfolio/static/media/feetatmontauk.87e2c3fa5dafcf8ccb1c.jpeg",
+    "static/media/ouiiipartyapp.png": "/react-portfolio/static/media/ouiiipartyapp.ab4666088335ec307237.png",
+    "static/media/goseeapp.png": "/react-portfolio/static/media/goseeapp.39a42fc036250daec8fc.png",
+    "static/media/spotscreenshot.png": "/react-portfolio/static/media/spotscreenshot.562a797c4d5db101cb3d.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.31661bcd0ebd1622d6e0.pdf",
+    "static/media/billie-holiday.png": "/react-portfolio/static/media/billie-holiday.693301800995d6bdbead.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.ababb3f4.css.map": "/react-portfolio/static/css/main.ababb3f4.css.map",
+    "main.8690eafb.js.map": "/react-portfolio/static/js/main.8690eafb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ababb3f4.css",
+    "static/js/main.8690eafb.js"
+  ]
+}
